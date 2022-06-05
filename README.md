@@ -1,5 +1,5 @@
 # Ficheros-Java-EjercicioAccesoADatos-DAM
-Manejo de ficheros usando las clases: FileWriter, FileReader, FileOutputStream, FileInputStream, RandomAccessFile.
+Probando las clases: FileWriter, FileReader, FileOutputStream, FileInputStream, RandomAccessFile.
 
 - **FileWriter** (clase permite escribir en ficheros de texto) y **FileReader** (clase que lee ficheros de texto caracter a caracter):
 - **FileInputStream** y **FileOutputStream** se usan para leer y escribir en ficheros binarios, por lo que permiten manejar(además de texto) imágenes, etc.
