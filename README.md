@@ -1,4 +1,4 @@
-# Ficheros-Java-EjercicioAccesoADatos-DAM
+# Ficheros-Java
 Probando las clases: FileWriter, FileReader, FileOutputStream, FileInputStream, RandomAccessFile.
 
 - **FileWriter** (clase permite escribir en ficheros de texto) y **FileReader** (clase que lee ficheros de texto caracter a caracter).
